@@ -11,6 +11,8 @@ A simple calculator project created using pure HTML5 and CSS3.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Made By](#madeby)
+
 
 ## Introduction
 
@@ -61,4 +63,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Made By
 
-Develope by Akash [here](https://www.linkedin.com/in/akash-borude-316a97189/)https://www.linkedin.com/in/akash-borude-316a97189/)
+Develope by Akash [here](https://www.linkedin.com/in/akash-borude-316a97189/)
